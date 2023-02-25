@@ -4,7 +4,7 @@
 ![Contributing](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
-## PI-TRANS(Accepted by[ICASSP 2023](https://2023.ieeeicassp.org/). <br>)
+## PI-TRANS (Accepted by[ICASSP 2023](https://2023.ieeeicassp.org/)) <br>
 **[PI-Trans: Parallel-ConvMLP and Implicit-Transformation Based GAN for Cross-View Image Translation](https://arxiv.org/abs/2207.04242)**  <br> 
 [Bin Ren](https://scholar.google.com/citations?user=Md9maLYAAAAJ&hl=en)<sup>1,2</sup>, 
 [Hao Tang](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en)<sup>3</sup>,
